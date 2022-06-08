@@ -1,7 +1,7 @@
 # Hello there 👋
 
-<p>I'm André, a backend software developer working with Java and Spring Framework focused on microsservice driven applications</p>
-<p>I'm a fan of software design principles, such as SOLID, Clean Architecture and DDD</p>
+<p>I am a backend software developer working with Java and Spring Framework focused on microsservice driven applications</p>
+<p>I am also a fan of software design principles, such as SOLID, Clean Architecture and DDD</p>
 <!-- 
 <div style="display: inline_block; margin-bottom: 32px;">
   <a href="https://github.com/andre237">
